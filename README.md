@@ -2,7 +2,7 @@
 Bem-vindo ao curso de Data Science com Python da Coderhouse! Encontre códigos, materiais de apoio e projetos práticos neste repositório. Prepare-se para explorar o poder dos dados e descobrir insights valiosos. Vamos começar!
 
 
-# Curso de Data Science com Python
+# Data Science com Python
 
 Bem-vindo ao repositório do curso de Data Science com Python da Coderhouse!
 
